@@ -13,5 +13,7 @@
         echo "<h3>Matheus Wilhelm Siqueira</h3>";
         echo "<h3>$result</h3>";
         ?>
+        <br/>
+        <img src="FrodoLEITINHO.png"/>
     </body>
 </html>
