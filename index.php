@@ -6,8 +6,8 @@
     </head>
     <body>
         <?php
-        $date = new DateTime("2000-01-01");
-        $result = $date->format("Y-m-d H:i:s");
+        $date = new DateTime();
+        $result = $date->format("d-m-Y H:i:s");
 
         echo "<h1>Avaliação SOCPS II</h1>";
         echo "<h3>Matheus Wilhelm Siqueira</h3>";
